@@ -42,5 +42,5 @@ python3 morse_cv.py
 
 ## References 🔱
  
- -  Sarah Ezekiel & Google Creative Lab. [Look to Speak by Google](https://blog.google/outreach-initiatives/accessibility/look-to-speak/)
+ - [Hello Morse Google IO](https://experiments.withgoogle.com/collection/morse)
 
