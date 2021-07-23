@@ -38,7 +38,7 @@ python3 morse_cv.py
 
 ## Results 📊
 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/bts.gif">
 
 ## References 🔱
  
